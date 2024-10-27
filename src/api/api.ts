@@ -1,7 +1,8 @@
 import axios from 'axios'
 
 export const instance = axios.create({
-	baseURL: 'http://127.0.0.1:8000',
+	baseURL:
+		'https://idea-cipher-backend-1zjy5unxk-taras-projects-adb37d18.vercel.app',
 	headers: {
 		'Content-Type': 'application/json',
 	},
