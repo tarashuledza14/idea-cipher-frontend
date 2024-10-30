@@ -2,7 +2,7 @@ Getting Started
 Welcome to the project! Follow these simple steps to get up and running.
 
 Step 1: Install Dependencies
-We use pnpm for dependency management, but feel free to use npm if you prefer.
+I use pnpm for dependency management, but feel free to use npm if you prefer. Also to start this project you must install nodejs =(
 
 Open your terminal and run:
 
